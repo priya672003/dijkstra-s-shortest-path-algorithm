@@ -5,6 +5,7 @@ To develop a code to find the shortest route from the source to the destination 
 
 ## THEORY
 
+Dijkstra's Algorithm finds the shortest path between a given node (which is called the "source node") and all other nodes in a graph. This algorithm uses the weights of the edges to find the path that minimizes the total distance (weight) between the source node and all other nodes.
 
 ## DESIGN STEPS
 
@@ -221,5 +222,7 @@ print("Total Distance={0} Kilometers".format(goal_state_path.path_cost))
 
 
 ## RESULT:
+
+Thus a code was developed to find the shortest route from the source to the destination point using Dijkstra's shortest path algorithm.
 
 
