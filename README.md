@@ -35,6 +35,12 @@ End the program.
 ![image](https://user-images.githubusercontent.com/81132849/167612723-513018f7-0999-4f51-9751-59275472bc79.png)
 
 ## PROGRAM
+
+### DEVELOPED BY
+
+### NAME:  PRIYADARSHINI R
+
+### REG.NO :  212220230038
 ```python 3
 
 %matplotlib inline
